@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Push Up",
+        "bodyPart": "Chest",
+        "description": "A basic exercise that strengthens the chest, shoulders, and triceps.",
+        "imagePath": "public/images/pushup.jpg"
+    },
+    {
+        "name": "Squat",
+        "bodyPart": "Legs",
+        "description": "An exercise that targets the thighs, hips, and buttocks.",
+        "imagePath": "public/images/squat.jpg"
+    },
+    {
+        "name": "Plank",
+        "bodyPart": "Core",
+        "description": "An isometric exercise that strengthens the core and stabilizes the body.",
+        "imagePath": "public/images/plank.jpg"
+    }
+]
